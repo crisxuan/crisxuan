@@ -8,7 +8,7 @@
   <a href="https://github.com/crisxuan?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-AI%20Tools%20%2B%20Automation-0f172a?style=for-the-badge&labelColor=111827&color=06b6d4" alt="Projects badge" />
   </a>
-  <a href="https://github.com/crisxuan/prehub">
+  <a href="https://github.com/crisxuan">
     <img src="https://img.shields.io/badge/Focus-Product%20Engineering-0f172a?style=for-the-badge&labelColor=111827&color=34d399" alt="Focus badge" />
   </a>
   <a href="https://github.com/crisxuan?tab=followers">
@@ -46,31 +46,31 @@
   <img src="https://img.shields.io/badge/WeChat-111827?style=flat-square&logo=wechat&logoColor=07C160" alt="WeChat" />
 </div>
 
-## 代表项目
+## 正在构建
 
 <table>
   <tr>
     <td width="50%">
-      <h3>PreHub</h3>
-      <p>GitHub 项目发现产品：用搜索、评分、审核和每日精选把值得关注的开源项目筛出来。</p>
-      <p><a href="https://github.com/crisxuan/prehub">github.com/crisxuan/prehub</a></p>
+      <h3>AI 项目发现引擎</h3>
+      <p>围绕开源项目搜索、评分、审核和推荐，做一套更适合持续发现好项目的工作流。</p>
+      <p><sub>Private prototype · polishing before public release</sub></p>
     </td>
     <td width="50%">
-      <h3>searchnews / autowriting</h3>
-      <p>可串行执行的内容流水线：采集、LLM 渲染、平台适配，并发布到公众号、知乎、掘金、小红书。</p>
-      <p><a href="https://github.com/crisxuan/autowriting">github.com/crisxuan/autowriting</a></p>
+      <h3>内容生产流水线</h3>
+      <p>把素材采集、LLM 整理、格式适配和多平台发布串起来，减少重复劳动。</p>
+      <p><sub>Private prototype · used in daily workflows</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Layweout</h3>
-      <p>面向微信公众号排版的本地工作台，把 Markdown / HTML 转成可复制到编辑器的内联样式 HTML。</p>
-      <p><a href="https://github.com/crisxuan/layweout">github.com/crisxuan/layweout</a></p>
+      <h3>本地排版工作台</h3>
+      <p>面向中文内容创作，把 Markdown / HTML 转成更适合发布平台的结构化排版。</p>
+      <p><sub>Private prototype · design and compatibility first</sub></p>
     </td>
     <td width="50%">
-      <h3>PrivateTalk</h3>
-      <p>微信聊天记录查看与分析工具，围绕本地数据、检索、可视化和 AI 问答做桌面体验。</p>
-      <p><a href="https://github.com/crisxuan/privatetalk">github.com/crisxuan/privatetalk</a></p>
+      <h3>本地数据分析桌面工具</h3>
+      <p>围绕个人数据、检索、可视化和 AI 问答，探索更私密、更可控的本地优先体验。</p>
+      <p><sub>Private prototype · local-first by default</sub></p>
     </td>
   </tr>
 </table>
