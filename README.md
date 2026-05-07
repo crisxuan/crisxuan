@@ -18,9 +18,12 @@
 
 <br />
 
-## 关于我
+## 关于我 / About
 
-我在做把 AI 放进真实工作流里的产品和工具，关注从信息采集、内容生成、平台分发到本地知识管理的完整链路。偏爱快速做出能跑的系统，再把体验、自动化和工程质量一点点打磨到可靠。
+<details open>
+<summary><strong>中文版</strong></summary>
+
+我是 cxuanAI，一个持续构建 AI 应用、自动化工作流和内容系统的开发者。相比只做一个 demo，我更关心工具能不能进入真实场景：采集信息、理解上下文、生成内容、适配平台、沉淀数据，并最终稳定地替人减少重复劳动。
 
 目前主要在探索：
 
@@ -28,6 +31,52 @@
 - 内容系统：采集、去重、重写、排版、多平台分发。
 - 桌面与本地优先应用：更重视隐私、离线能力和个人数据掌控。
 - 开源项目发现：把 GitHub 上值得关注的项目筛出来、解释清楚、持续追踪。
+</details>
+
+<details>
+<summary><strong>English</strong></summary>
+
+I am cxuanAI, a developer building AI applications, automation workflows, and content systems. I care less about one-off demos and more about tools that survive real use: collecting information, understanding context, generating content, adapting it for different platforms, preserving useful data, and quietly removing repetitive work from daily life.
+
+I am currently exploring:
+
+- AI agents and automation workflows for research, writing, publishing, and operations.
+- Content pipelines that connect collection, deduplication, rewriting, formatting, and distribution.
+- Local-first desktop tools for private data, search, visualization, and AI-assisted analysis.
+- Open-source discovery systems that make promising GitHub projects easier to notice and understand.
+</details>
+
+## 找到我 / Find Me
+
+<div align="center">
+  <a href="https://galaxysite-inky.vercel.app/">
+    <img src="https://img.shields.io/badge/Galaxy%20Site-Visit-0f172a?style=for-the-badge&labelColor=111827&color=8b5cf6" alt="Galaxy Site" />
+  </a>
+  <a href="https://github.com/crisxuan">
+    <img src="https://img.shields.io/badge/GitHub-crisxuan-0f172a?style=for-the-badge&logo=github&labelColor=111827&color=06b6d4" alt="GitHub" />
+  </a>
+  <a href="https://www.zhihu.com/people/bycxuan">
+    <img src="https://img.shields.io/badge/Zhihu-bycxuan-0f172a?style=for-the-badge&labelColor=111827&color=1677ff" alt="Zhihu" />
+  </a>
+  <a href="https://x.com/criscxuan">
+    <img src="https://img.shields.io/badge/X-@criscxuan-0f172a?style=for-the-badge&logo=x&labelColor=111827&color=64748b" alt="X" />
+  </a>
+</div>
+
+<br />
+
+| Channel | Where | Good For |
+| --- | --- | --- |
+| Galaxy Site | [galaxysite-inky.vercel.app](https://galaxysite-inky.vercel.app/) | A visual map of my writing, code, and social platforms |
+| GitHub | [@crisxuan](https://github.com/crisxuan) | Code, experiments, open-source work |
+| 知乎 | [bycxuan](https://www.zhihu.com/people/bycxuan) | Long answers, opinions, structured thinking |
+| X | [@criscxuan](https://x.com/criscxuan) | Short updates, building notes, real-time thoughts |
+| 小红书 | [cxuanAI](https://www.xiaohongshu.com/user/profile/5a12e9f8e8ac2b34c7cfea22) | Visual notes, life fragments, behind the scenes |
+| CSDN | [qq_36894974](https://blog.csdn.net/qq_36894974?type=blog) | Technical articles and engineering notes |
+| 掘金 | [cxuanAI](https://juejin.cn/user/2101921964109880) | Frontend, engineering, and practical writeups |
+| 博客园 | [cxuanBlog](https://www.cnblogs.com/cxuanBlog) | Blog archive and technical writing |
+| 微信公众号 | `cxuanAI` | Search on WeChat for long-form Chinese articles |
+| 微信 | `lx252279279` | Collaboration, project discussion, and direct contact |
 
 ## 技术栈
 
