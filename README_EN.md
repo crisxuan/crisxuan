@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="crisxuan profile banner" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
   <a href="https://github.com/crisxuan?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-AI%20Tools%20%2B%20Automation-0f172a?style=for-the-badge&labelColor=111827&color=06b6d4" alt="Projects badge" />
   </a>
@@ -70,7 +64,21 @@ I am currently exploring:
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,electron,python,go,sqlite,postgres,vite,docker,git,github&perline=6" alt="Tech stack icons" />
+  <strong>Frontend & Desktop</strong>
+  <br />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,electron,tailwind,html,css&perline=10" alt="Frontend and desktop stack icons" />
+  <br /><br />
+  <strong>Backend & Services</strong>
+  <br />
+  <img src="https://skillicons.dev/icons?i=go,java,spring,maven,gradle,nodejs,express,python,flask,fastapi&perline=10" alt="Backend and services stack icons" />
+  <br /><br />
+  <strong>Data & Infrastructure</strong>
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,docker,kubernetes,nginx,linux,bash&perline=10" alt="Data and infrastructure stack icons" />
+  <br /><br />
+  <strong>Tooling & Platforms</strong>
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare,aws,vscode,idea,postman,figma&perline=10" alt="Tooling and platforms stack icons" />
 </div>
 
 <br />
@@ -78,8 +86,8 @@ I am currently exploring:
 <div align="center">
   <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Anthropic-111827?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Vue-111827?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Automation-111827?style=flat-square&logo=zapier&logoColor=white" alt="Automation" />
   <img src="https://img.shields.io/badge/Markdown-111827?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/WeChat-111827?style=flat-square&logo=wechat&logoColor=07C160" alt="WeChat" />
 </div>
