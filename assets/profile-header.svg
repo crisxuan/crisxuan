@@ -33,18 +33,18 @@
     <text x="78" y="218" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="500">Content systems explorer · Local-first products</text>
 
     <g transform="translate(78 244)">
-      <rect width="156" height="34" rx="17" fill="#0f766e" fill-opacity="0.95"/>
-      <text x="18" y="23" fill="#ecfeff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">PRODUCT ENGINEER</text>
+      <rect width="112" height="34" rx="17" fill="#0f766e" fill-opacity="0.95"/>
+      <text x="20" y="23" fill="#ecfeff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">PRODUCT</text>
     </g>
-    <g transform="translate(250 244)">
-      <rect width="110" height="34" rx="17" fill="#0891b2" fill-opacity="0.95"/>
-      <text x="18" y="23" fill="#ecfeff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">AI AGENTS</text>
+    <g transform="translate(204 244)">
+      <rect width="112" height="34" rx="17" fill="#0891b2" fill-opacity="0.95"/>
+      <text x="22" y="23" fill="#ecfeff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">AGENTS</text>
     </g>
-    <g transform="translate(376 244)">
-      <rect width="132" height="34" rx="17" fill="#7c3aed" fill-opacity="0.95"/>
-      <text x="18" y="23" fill="#faf5ff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">LOCAL-FIRST</text>
+    <g transform="translate(330 244)">
+      <rect width="112" height="34" rx="17" fill="#7c3aed" fill-opacity="0.95"/>
+      <text x="24" y="23" fill="#faf5ff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">LOCAL</text>
     </g>
-    <g transform="translate(524 244)">
+    <g transform="translate(456 244)">
       <rect width="112" height="34" rx="17" fill="#f59e0b" fill-opacity="0.95"/>
       <text x="18" y="23" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">SYSTEMS</text>
     </g>
@@ -80,6 +80,6 @@
     <circle cx="1098" cy="191" r="5" fill="#34d399"/>
     <circle cx="978" cy="240" r="5" fill="#a78bfa"/>
     <circle cx="862" cy="197" r="5" fill="#f59e0b"/>
-    <text x="782" y="292" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Open-source discovery · Content pipelines · Personal data workbench</text>
+    <text x="782" y="292" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">OSS discovery · Content pipelines · Local data</text>
   </g>
 </svg>
