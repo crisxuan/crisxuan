@@ -1,0 +1,21 @@
+<svg width="1280" height="160" viewBox="0 0 1280 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">cxuanAI footer banner</title>
+  <desc id="desc">A footer banner with the message: Building useful AI-native tools, one workflow at a time.</desc>
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1280" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f766e"/>
+      <stop offset="0.48" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="line" x1="110" y1="80" x2="1170" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="160" rx="28" fill="url(#footerBg)"/>
+  <path d="M0 118C146 76 260 94 392 116C556 144 696 146 860 100C1000 60 1134 54 1280 88V160H0V118Z" fill="#020617" fill-opacity="0.44"/>
+  <path d="M110 80H1170" stroke="url(#line)" stroke-width="2" stroke-linecap="round"/>
+  <text x="640" y="72" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Building useful AI-native tools, one workflow at a time.</text>
+  <text x="640" y="104" text-anchor="middle" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="500">AI apps · Automation workflows · Content systems · Local-first products</text>
+</svg>
