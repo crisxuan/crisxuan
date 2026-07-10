@@ -23,12 +23,12 @@
 ## Contribution Arcade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crisxuan/crisxuan/output/galaga-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crisxuan/crisxuan/output/galaga-contribution-graph.svg" />
-  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/crisxuan/crisxuan/output/galaga-contribution-graph.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crisxuan/crisxuan/output/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crisxuan/crisxuan/output/breakout-contribution-graph.svg" />
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/crisxuan/crisxuan/output/breakout-contribution-graph.svg" width="100%" />
 </picture>
 
-<sub>Galaga 正在清理过去一年的贡献格子 · 每天自动更新</sub>
+<sub>Breakout 正在击碎过去一年的贡献格子 · 每天自动更新</sub>
 
 ## Building
 

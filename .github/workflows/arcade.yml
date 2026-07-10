@@ -20,11 +20,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: Generate Galaga contribution graphs
+      - name: Generate Breakout contribution graphs
         uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: galaga
+          games: breakout
 
       - name: Publish generated SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
