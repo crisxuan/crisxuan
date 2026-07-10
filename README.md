@@ -60,7 +60,7 @@
     <td align="center"><img src="https://cdn.simpleicons.org/redis/DC382D" width="32" height="32" alt="Redis" /><br /><sub>Redis</sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="32" height="32" alt="Docker" /><br /><sub>Docker</sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="32" height="32" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/openai/8B949E" width="32" height="32" alt="OpenAI" /><br /><sub>OpenAI</sub></td>
+    <td align="center"><img src="./assets/openai.svg" width="32" height="32" alt="OpenAI" /><br /><sub>OpenAI</sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="32" height="32" alt="Anthropic" /><br /><sub>Anthropic</sub></td>
   </tr>
 </table>
