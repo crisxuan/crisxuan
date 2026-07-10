@@ -18,7 +18,7 @@
 
 <br />
 
-我把 AI、自动化和内容基础设施做成能进入真实工作流的产品。比起一次性 demo，我更关心系统能否长期运行、持续减少重复劳动。
+长期折腾 Codex、Claude Code 和 Agent 工作流，记录真实踩坑、工具实测和产品判断。
 
 ## Contribution Arcade
 
@@ -30,11 +30,11 @@
 
 <sub>Breakout 正在击碎过去一年的贡献格子 · 每天自动更新</sub>
 
-## Building
+## 我在折腾什么
 
-- **Open Source Radar** — 搜索、评分和推荐值得关注的开源项目。
-- **Content OS** — 连接采集、整理、重写、排版和多平台发布。
-- **Personal Data Lab** — 面向个人数据的本地检索、可视化与 AI 分析。
+- **Codex / Claude Code** — 真实使用中的配置、协作方式和踩坑记录。
+- **Agent 工作流** — 把任务拆解、工具调用、检查与交付串成可复用的流程。
+- **AI 产品实测** — 记录新工具在真实场景里的效果、成本和是否值得用。
 
 <details>
 <summary><strong>Stack</strong></summary>

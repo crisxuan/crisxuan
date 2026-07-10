@@ -18,7 +18,7 @@
 
 <br />
 
-I turn AI, automation, and content infrastructure into products that survive real workflows. I care less about one-off demos and more about systems that keep running and steadily remove repetitive work.
+I spend a lot of time with Codex, Claude Code, and agent workflows, documenting real failure modes, hands-on tool tests, and product judgment.
 
 ## Contribution Arcade
 
@@ -30,11 +30,11 @@ I turn AI, automation, and content infrastructure into products that survive rea
 
 <sub>Breakout is clearing the last year of contributions · Updated daily</sub>
 
-## Building
+## What I Work On
 
-- **Open Source Radar** — Search, score, and recommend open-source projects worth noticing.
-- **Content OS** — Connect collection, synthesis, rewriting, formatting, and multi-platform publishing.
-- **Personal Data Lab** — Local search, visualization, and AI-assisted analysis for personal data.
+- **Codex / Claude Code** — Configurations, collaboration patterns, and hard-earned lessons from real use.
+- **Agent Workflows** — Repeatable flows that connect task breakdowns, tool calls, checks, and delivery.
+- **AI Product Tests** — Practical notes on what new tools do well, cost, and whether they are worth using.
 
 <details>
 <summary><strong>Stack</strong></summary>
